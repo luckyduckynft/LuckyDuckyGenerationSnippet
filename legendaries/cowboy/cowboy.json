@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Cowboy"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Cowboy Ducky is gittin’ along with his little Cactus dawgies, while keeping a watch on the western front.",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Cowboy Ducky"
+}

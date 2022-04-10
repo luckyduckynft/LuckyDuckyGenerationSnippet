@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Pirate"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Our Pirate Captain Ducky discovered the buried treasure out at sea; but he’d be wise to mind the treasure’s guardian: The infamous Quacken!",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Pirate Ducky"
+}

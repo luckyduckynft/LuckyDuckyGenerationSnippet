@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Royal"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Royal Ducky is a kind and generous ruler over the land. His friend the Duckagon flies overhead keeping watch.",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"The Royal Ducky"
+}

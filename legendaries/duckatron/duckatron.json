@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Duckatron 6000"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Duckatron 6000 has come to protect Duck City from the bad bot invasion! Thank you Duckatron 6000!",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Duckatron 6000"
+}

@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Devil"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! You don’t want to make a deal with this Devilish Ducky, but he’s happy to make you an offer.",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Devil Ducky"
+}

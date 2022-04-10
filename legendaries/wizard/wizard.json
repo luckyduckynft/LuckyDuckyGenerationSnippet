@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Wizard"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! The Wizard Ducky practices their magic while the Ducky Kingdom sleeps. His friend the Duckagon flies overhead keeping watch.",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Wizard Ducky"
+}

@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Ducktective"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Our gumshoe Ducktective is gathering clues and hot on the case! ",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"The Ducktective"
+}

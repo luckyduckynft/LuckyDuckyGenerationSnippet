@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Alien"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Alien Ducky just landed on a strange planet looking to make new friends. Meanwhile, our Astro Ducky putters past in search of new worlds.",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Alien Ducky"
+}

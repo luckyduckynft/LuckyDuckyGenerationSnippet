@@ -1,0 +1,15 @@
+{
+  "block_hash": "0x452bb40156bcf29b1f981908c94f108dfbe86070318cc680d69364bd1e39df5e",
+  "block_hash_old": "il0v3lidlz",
+  "image_path":"REPLACE_IMAGE_PATH/ID.png",
+  "asset_name":"Lucky Ducky #ID",
+  "description":"Lucky Duckies have left the pond and are getting into mischief! Lucky Ducky NFT is the first family friendly, hand crafted, claymation generative project sculpted by claymation artist 0fish0",
+  "legendary_block": 117,
+  "start_index":1,
+  "end_index":7777,
+  "duplicates":false,
+  "sol_fee": 500,
+  "creators":[
+
+  ]
+}

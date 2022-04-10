@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Defi"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Defi Ducky is hoping his investments pay off. He won’t be satisfied until he goes to the moon!",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Defi Ducky"
+}

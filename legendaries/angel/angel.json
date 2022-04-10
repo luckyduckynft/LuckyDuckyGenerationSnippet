@@ -1,0 +1,12 @@
+{
+  "attributes":[
+    {
+      "trait_type":"Legendary",
+      "value":"Angel"
+    }
+  ],
+  "description":"Lucky you! You found a Legendary Lucky Ducky! Our heavenly Angel Ducky looks over the Lucky Ducky flock, spreading love and luck to all the Duckies.",
+  "image":"REPLACE_IMAGE_PATH/ID.gif",
+  "animation_url":"REPLACE_IMAGE_PATH/ID.mp4",
+  "name":"Angel Ducky"
+}
